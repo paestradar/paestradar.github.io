@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Assignment 2</title>
+
+<div>
+    <ul style="list-style-type:none;" align="center">
+      <li><a href="http://www.google.com">HOME</a></li>
+      <li><a href="http://www.google.com">ABOUT</a></li>
+      <li><a href="http://www.google.com">BOOK</a></li>
+      <li><a href="http://www.google.com">CONTACT</a></li>
+    </ul>
+</div>
+  </head>
+
+
+  <body>
+<div>
+    <form class="" action="index.html" method="post">
+      <input type="text" name="first_name" value="search for this website">
+      <button type="button" name="button"><a href="http://www.google.com">search</a></button>
+    </form>
+  </div>
+<br>
+  <div>
+    <table border="2" bgcolor="yellow">
+  <tr>
+    <th width="100"></th><th width="100">Withdraw</th><th width="100">Credit</th>
+    <th width="100">Balance</th></tr>
+  <tr align="center" bgcolor="pink">
+    <th>September</th><td>="$250"</td><td>="$600"</td><td>="$410"</td></tr>
+  </table>
+</div>
+
+<br>
+
+
+  <img src="freedom-tower.jpg" alt="New York City Pic" width="300" align="left"><br>
+
+
+<div style="border:2px solid red">
+  <p>This is the hotpink paragraph, font family is Arial</p>
+  <p>This is the pink paragraph, font family is Courier</p>
+  <p>This is the lightpink paragraph,font family is Corsiva</p>
+  <button type="button" name="button"><a href="http://www.google.com">This is another button</a></button>
+
+</div>
+
+
+  <br>
+  <br>
+  <br>
+
+
+  <textarea style="border:2px solid lightblack" name="name" rows="12" cols="75">
+  &lt;p&gt;Study button, input, form and textarea elements&lt;/p&gt;
+  </textarea>
+
+<br>
+<br>
+
+<iframe src="file:///Users/patriciaestrada/Documents/Assignment%201%20HTML%20/Assignment1.html" width="520px" height="500px"></iframe>
+
+
+
+  </body>
+</html>
