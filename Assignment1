@@ -1,0 +1,41 @@
+<!DOCTYPEhtml>
+
+<html>
+
+<head>
+
+<h1>Assignment 1 - Feb 8th 2021</h1><br>
+</head>
+
+<body>
+
+Hey! It looks like a paragraph, but there is a block/box here too.Find the HTML element othen than &lt;p&gt; and &lt;h&gt;
+
+<p style="color:blue;"><b><u><a href="https://www.google.com">This is a link to Google</a></u></b></p>
+
+<img src="https://images.unsplash.com/photo-1556950961-8c092986258e?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fGRpc25leSUyMHdvcmxkfGVufDB8fDB8&ixlib=rb-1.2.1&w=1000&q=80" width="142" height="190">
+
+
+<p><i>Email me by clicking on <a href="mailto:jondoe@disneyworld.com">Jon Doe.</a><br>Visit us at:<br>
+<a href="https://disneyworld.disney.go.com">Disney World</a><br>
+Box 678, Disneyland<br>
+USA<br>
+</i></p>
+</body>
+
+<table>
+
+<h2>Bonus! Creat A Table</h2>
+
+<table border="2" bgcolor="yellow">
+  <tr>
+    <th width="100"></th><th width="100">width</th><th width="100">border</th>
+    <th width="100">bgcolor</th></tr>
+  <tr align="center" bgcolor="pink">
+    <th>Value 1</th><td>="100"</td><td>="2"</td><td>="yellow"</td></tr>
+  <tr align="center">
+    <th>Value 2</th><td>italic</td><td>="2"or"2px"</td><td>="lightpick"></td></tr
+
+  </table>
+
+</html>
